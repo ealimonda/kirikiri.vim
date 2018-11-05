@@ -44,7 +44,7 @@ syn keyword kirikiriCommandTagName contained skipwhite nextgroup=kirikiriCommand
 
 
 syn region kirikiriString start=/"/ end=/"/
-syn region kirikiriString start=/'/ end=/'/
+"syn region kirikiriString start=/'/ end=/'/
 
 syn keyword kirikiriBoolean true false
 
